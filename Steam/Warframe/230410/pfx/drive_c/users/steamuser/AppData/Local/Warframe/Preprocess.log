@@ -1,0 +1,198 @@
+0.042 Sys [Diag]: Process Command-line: -silent -log:/Preprocess.log -graphicsDriver:dx11 -cluster:public -language:en -applet:/EE/Types/Framework/ContentUpdate
+0.042 Sys [Diag]: Build Label: 2025.02.13.12.01 Retail Windows x64 [Stripped]
+0.043 Sys [Diag]: Build Unique ID: 93136873
+0.045 Sys [Diag]: Windows user-name: Ahmad Usman
+0.045 Sys [Diag]: Windows computer-name: MyGamingPC
+0.045 Sys [Diag]: Current time: Sun Feb 16 18:53:39 2025 [UTC: Sun Feb 16 13:53:39 2025]
+0.045 Sys [Diag]: Current directory: D:\SteamLibrary\steamapps\common\Warframe\Tools
+0.095 Sys [Diag]: Processor: AMD Hex-HT Ryzen 5 7500F 3700MHz HT/SSE/SSE2/SSE3/SSSE3/SSE4A/SSE41/SSE42/AVX/AVX2/AVX512F/AVX512CD/POPCNT/F16C/FMA3/SHA/BMI1/BMI2 F/M/S/EF/EM/UC: F/1/2/A/6/A601206
+0.095 Sys [Diag]: Physical Memory: 26GB / 32GB free
+0.095 Sys [Diag]: Address Space: 128TB / 128TB free
+0.095 Sys [Diag]: C:\pagefile.sys: 2GB / 2GB free [System Managed]
+0.095 Sys [Diag]: Page size: 4KB (Granularity: 64KB)
+0.095 Sys [Diag]: Operating System: Windows 11
+0.095 Sys [Diag]: Mitigation Policies: DEP-P BUR HI
+0.098 Sys [Diag]: System Processes: 179
+0.098 Sys [Diag]: System Threads: 3,165
+0.098 Sys [Diag]: System Handles: 80,486
+0.098 Sys [Diag]: System GDI Objects: 0
+0.098 Sys [Diag]: System USER Objects: 0
+0.098 Sys [Diag]: System Up-Time: 0d 0h 1m 53s
+0.098 Sys [Diag]: Free Disk Space on C: 55,128,305,664 bytes
+0.098 Sys [Diag]: Free Disk Space on D: 8,711,819,264 bytes
+0.098 Sys [Diag]: Found Monitor: (0, 0) - (1920, 1080) : 1920x1080
+0.098 Sys [Diag]: Process is DPI-aware
+0.098 Sys [Diag]: Clock frequency: 10,000,000Hz
+0.104 Gfx [Info]: Private shader options need 24 bits
+0.105 Sys [Info]: CancelJobs batchcount 0
+0.111 Sys [Info]: Loading packages took 0.0ms
+0.111 Sys [Info]: Redirecting package load to: C:\Users\Ahmad Usman\AppData\Local\Warframe\Editor.cfg
+0.117 Sys [Info]: Cache languages enabled: _en
+0.117 Sys [Info]: Loading Oodle DLL: oo2core_9_win64.dll
+0.118 Sys [Info]: Loading Net Oodle DLL: oo2net_9_win64.dll
+0.123 Sys [Info]: Scanning D:\SteamLibrary\steamapps\common\Warframe\Cache.Windows\ for cache blocks...
+0.123 Sys [Info]: Found 91 cache blocks...
+0.528 Sys [Info]: Downloading cache manifest index...
+1.291 Sys [Info]: Loaded TOC for Windows/H.Misc (took 155ms, loaded 218440 entries, found 278 deleted)
+1.291 Sys [Info]: Used shared /H.Cache.bin (567B Copy: 38us Write: 155ms Latency: 763ms)
+1.349 Sys [Info]: Loaded TOC for Windows/B.Misc (took 51.3ms, loaded 135115 entries, found 106 deleted)
+1.355 Sys [Info]: Loaded TOC for Windows/H.Font (took 5.98ms, loaded 4590 entries, found 32 deleted)
+1.364 Sys [Info]: Loaded TOC for Windows/B.Font (took 5.91ms, loaded 4578 entries, found 53 deleted)
+1.573 Sys [Info]: Cache manifest hash vtcCDmfVstZ2MTmjxxkwdw
+1.582 Sys [Info]: Loaded TOC for Windows/B.AnimRetarget (took 6.57ms, loaded 7943 entries, found 64 deleted)
+1.582 Sys [Info]: Loaded TOC for Windows/H.CharacterCodesCache (took 5us, loaded 1 entries, found 1 deleted)
+1.588 Sys [Info]: Loaded TOC for Windows/H.AnimRetarget (took 5.84ms, loaded 8846 entries, found 69 deleted)
+1.591 Sys [Info]: Loaded TOC for Windows/B.CharacterCodesCache (took 5us, loaded 1 entries, found 1 deleted)
+1.607 Sys [Info]: Loaded TOC for Windows/H.LightMap (took 9.96ms, loaded 53322 entries, found 12 deleted)
+1.642 Sys [Info]: Loaded TOC for Windows/B.LightMap (took 9.97ms, loaded 53322 entries, found 32 deleted)
+1.674 Sys [Info]: Loaded TOC for Windows/H.Texture (took 27.6ms, loaded 61515 entries, found 72 deleted)
+1.705 Sys [Info]: Loaded TOC for Windows/B.Texture (took 22.2ms, loaded 48481 entries, found 151 deleted)
+1.706 Sys [Info]: Loaded TOC for Windows/H.VideoTexture (took 36us, loaded 22 entries, found 0 deleted)
+1.824 Sys [Info]: Initialize dictionary: 1048576b
+2.212 Sys [Info]: Loading package cache took 0.5s (Parse: 0.4s)
+2.215 Sys [Info]: Loaded TOC for Windows/H.VideoTextureStreaming (took 21us, loaded 9 entries, found 0 deleted)
+2.215 Sys [Info]: Loaded TOC for Windows/B.VideoTexture (took 5us, loaded 1 entries, found 0 deleted)
+2.253 Sys [Info]: Loaded TOC for Windows/F.Misc (took 5.71ms, loaded 10311 entries, found 19 deleted)
+2.531 Sys [Info]: Load deps cache took 317ms
+2.583 Net [Info]: RMI::Initialize - Methods: 424 Hash: 11224675029258309561
+2.583 Sys [Info]: Redirecting package load to: C:\Users\Ahmad Usman\AppData\Local\Warframe\EE.cfg
+2.594 Sys [Diag]: Engine config profile: /Configs/EE.cfg/Windows_Config
+2.594 Sys [Info]: JobMgr: 11 threads (+4 low)
+2.594 Phys [Info]: Custom physx allocator in use
+2.600 Phys [Info]: PhysX SDK initialized.
+2.600 Phys [Info]: PhysX Core Version: 4.1.1.0
+2.600 Phys [Info]: PhysX scene manager initialized.
+2.614 Sys [Info]: Driver registered: ScriptDriver Supported types: [Script]
+2.614 Script [Info]: ScriptMgr::Initialize() 0 bytes, 0 allocs
+2.614 Sys [Info]: Using language: _en
+2.614 Sys [Info]: Loaded TOC for Windows/H.Misc_en (took 84us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.622 Sys [Info]: Loaded TOC for Windows/F.LightMap (took 6.93ms, loaded 34652 entries, found 12 deleted)
+2.660 Sys [Info]: Loaded TOC for Windows/F.Texture (took 24.7ms, loaded 52297 entries, found 51 deleted)
+2.782 Sys [Info]: Loading language cache took 0.167587s
+2.782 Sys [Diag]: Command line: -silent -log:/Preprocess.log -graphicsDriver:dx11 -cluster:public -language:en -applet:/EE/Types/Framework/ContentUpdate
+2.782 Sys [Diag]: SRand seeded with: 339301964271356254
+2.782 Sys [Info]: ResourceLoader 0x00000184A87CDAF0 (/EE/Types/GameRules/GameConfig) Found 5 items to load (0ms) [Heap: 142,325,744/142,540,800 Footprint: 205,393,920 Handles: 603]
+2.782 Sys [Info]: Resloader 0x00000184A87CDAF0 (/EE/Types/GameRules/GameConfig) starting
+2.782 Sys [Info]: Loaded TOC for Windows/F.VideoTexture (took 31us, loaded 21 entries, found 0 deleted)
+2.782 Sys [Error]: Could not find platform icon collection: /EE/Types/GraphicsRes/DefaultPlatformIconCollection
+2.782 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+2.782 Sys [Info]: Finished load of Flyweight batch (1) [0.00s and 0 frames at 1 ms/frame avg, 0 ms/update peak], 0/0/0, 5 item(s), 0k total so far, 0.00% utilization
+2.782 Sys [Info]: Resource load completed 0x00000184A87CDAF0 (/EE/Types/GameRules/GameConfig) in one pass and 0.0s (I/O ~= 0.0%, inherited 0 of 5)
+2.782 Sys [Info]: ResourceLoader 0x00000184A87CDAF0 (/EE/Types/GameRules/GameConfig) spot-loaded in 637us
+2.783 Net [Info]: UPnP enabled.
+2.783 Net [Info]: NAT-PMP enabled.
+2.783 Sys [Info]: Driver registered: MaterialLibrary Supported types: [PhysicsMaterial]
+2.785 Sys [Info]: Loaded TOC for Windows/B.Misc_en (took 30us, loaded 13 entries, found 0 deleted)
+2.785 Sys [Info]: Loaded TOC for Windows/F.VideoTextureStreaming (took 11us, loaded 9 entries, found 0 deleted)
+2.785 Sys [Info]: Loaded TOC for Windows/H.Texture_en (took 20us, loaded 13 entries, found 0 deleted)
+2.785 Sys [Info]: No stripped assets to preprocess (manifest hash matched)
+2.786 Sys [Info]: TypeMgr cleaned 0 instances (0us) and unbuilt 0 types (908us) in 0us
+2.786 Sys [Info]: Startup time: 2.79s
+2.786 Sys [Info]: Done.
+2.786 Sys [Info]: /Cache.Windows/B.AnimRetarget.cache 4,019,278 / 135,247,036 bytes wasted (2%)
+2.786 Sys [Info]: /Cache.Windows/B.CharacterCodesCache.cache 13,950 / 28,065 bytes wasted (49%)
+2.786 Sys [Info]: /Cache.Windows/B.Font.cache 1,004,243 / 20,835,963 bytes wasted (4%)
+2.786 Sys [Info]: /Cache.Windows/B.LightMap.cache 2,111,461 / 1,799,066,524 bytes wasted (0%)
+2.786 Sys [Info]: /Cache.Windows/B.Misc.cache 8,632,002 / 5,821,511,656 bytes wasted (0%)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_de (took 44us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_es (took 22us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_fr (took 20us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_it (took 20us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_ja (took 20us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_ko (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_pl (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_pt (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_ru (took 19us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_tc (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_th (took 19us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_tr (took 19us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.786 Sys [Info]: Loaded TOC for Windows/B.Misc_uk (took 19us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.799 Sys [Info]: Loaded TOC for Windows/B.Misc_xx (took 13.0ms, loaded 29661 entries, found 6 deleted, spot-loaded)
+2.799 Sys [Info]: /Cache.Windows/B.Misc_xx.cache 9,670 / 95,600,432 bytes wasted (0%)
+2.799 Sys [Info]: Loaded TOC for Windows/B.Misc_zh (took 50us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.799 Sys [Info]: Loaded TOC for Dx11/B.Shader (took 101us, loaded 122 entries, found 2 deleted, spot-loaded)
+2.799 Sys [Info]: /Cache.Windows/B.ShaderDx11.cache 660,037 / 5,017,578 bytes wasted (13%)
+2.800 Sys [Info]: Loaded TOC for Dx12/B.Shader (took 46us, loaded 122 entries, found 0 deleted, spot-loaded)
+2.804 Sys [Info]: Loaded TOC for Dx11/B.ShaderPermutation (took 4.53ms, loaded 10770 entries, found 143 deleted, spot-loaded)
+2.804 Sys [Info]: /Cache.Windows/B.ShaderPermutationDx11.cache 1,314,418 / 510,690,199 bytes wasted (0%)
+2.811 Sys [Info]: Loaded TOC for Dx12/B.ShaderPermutation (took 6.55ms, loaded 10739 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: /Cache.Windows/B.Texture.cache 9,205,550 / 1,415,318,559 bytes wasted (0%)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_de (took 113us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_en (took 15us, loaded 13 entries, found 0 deleted)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_es (took 40us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_fr (took 24us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_it (took 20us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_ja (took 24us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_ko (took 32us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_pl (took 38us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_pt (took 34us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_ru (took 26us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_tc (took 29us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_th (took 27us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_tr (took 27us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_uk (took 85us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: Loaded TOC for Windows/B.Texture_zh (took 25us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.811 Sys [Info]: /Cache.Windows/F.LightMap.cache 2,814,334 / 9,742,167,284 bytes wasted (0%)
+2.811 Sys [Info]: /Cache.Windows/F.Misc.cache 26,609,709 / 6,145,135,069 bytes wasted (0%)
+2.824 Sys [Info]: Loaded TOC for Windows/F.Misc_xx (took 12.3ms, loaded 29660 entries, found 7 deleted, spot-loaded)
+2.824 Sys [Info]: /Cache.Windows/F.Misc_xx.cache 694,080 / 1,240,580,590 bytes wasted (0%)
+2.824 Sys [Info]: /Cache.Windows/F.Texture.cache 30,214,370 / 18,360,046,664 bytes wasted (0%)
+2.824 Sys [Info]: /Cache.Windows/H.AnimRetarget.cache 1,714,942 / 72,955,449 bytes wasted (2%)
+2.824 Sys [Info]: /Cache.Windows/H.CharacterCodesCache.cache 5,704 / 11,410 bytes wasted (49%)
+2.824 Sys [Info]: /Cache.Windows/H.Font.cache 33,000 / 2,206,988 bytes wasted (1%)
+2.824 Sys [Info]: /Cache.Windows/H.LightMap.cache 2,542 / 11,515,258 bytes wasted (0%)
+2.824 Sys [Info]: /Cache.Windows/H.Misc.cache 99,298,319 / 264,830,176 bytes wasted (37%)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_de (took 44us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_es (took 24us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_fr (took 20us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_it (took 19us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_ja (took 19us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_ko (took 22us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_pl (took 18us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_pt (took 19us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_ru (took 22us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_tc (took 17us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_th (took 19us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_tr (took 18us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.824 Sys [Info]: Loaded TOC for Windows/H.Misc_uk (took 20us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.835 Sys [Info]: Loaded TOC for Windows/H.Misc_xx (took 11.3ms, loaded 29662 entries, found 6 deleted, spot-loaded)
+2.836 Sys [Info]: /Cache.Windows/H.Misc_xx.cache 1,748 / 9,057,156 bytes wasted (0%)
+2.836 Sys [Info]: Loaded TOC for Windows/H.Misc_zh (took 49us, loaded 14 entries, found 0 deleted, spot-loaded)
+2.836 Sys [Info]: Loaded TOC for Dx11/H.Shader (took 302us, loaded 421 entries, found 3 deleted, spot-loaded)
+2.836 Sys [Info]: /Cache.Windows/H.ShaderDx11.cache 9,572 / 624,092 bytes wasted (1%)
+2.836 Sys [Info]: Loaded TOC for Dx12/H.Shader (took 151us, loaded 421 entries, found 0 deleted, spot-loaded)
+2.841 Sys [Info]: Loaded TOC for Dx11/H.ShaderPermutation (took 5.31ms, loaded 10770 entries, found 123 deleted, spot-loaded)
+2.841 Sys [Info]: /Cache.Windows/H.ShaderPermutationDx11.cache 53,151 / 5,351,036 bytes wasted (0%)
+2.845 Sys [Info]: Loaded TOC for Dx12/H.ShaderPermutation (took 3.96ms, loaded 10739 entries, found 0 deleted, spot-loaded)
+2.845 Sys [Info]: /Cache.Windows/H.Texture.cache 16,559 / 15,622,723 bytes wasted (0%)
+2.845 Sys [Info]: Loaded TOC for Windows/H.Texture_de (took 45us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_es (took 24us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_fr (took 20us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_it (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_ja (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_ko (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_pl (took 19us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_pt (took 17us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_ru (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_tc (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_th (took 17us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_tr (took 17us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_uk (took 17us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Loaded TOC for Windows/H.Texture_zh (took 18us, loaded 13 entries, found 0 deleted, spot-loaded)
+2.846 Sys [Info]: Wasted cache space: 188,438,639 bytes (0%)
+2.846 Sys [Info]: All stripped assets preprocessed
+2.846 Sys [Info]: Main Shutdown Initiated.
+2.847 Sys [Info]: TypeMgr cleaned 0 instances (0us) and unbuilt 0 types (923us) in 0us
+2.847 Sys [Info]: Shutting down content update...
+2.847 Net [Info]: MatchingService::DeleteSession
+2.847 Net [Info]: DeleteSessionCallback(1, )
+2.847 Net [Info]: Deleted session
+2.847 Net [Info]: MatchingServiceWeb::LeavePlatformPartyDone
+2.848 Sys [Info]: Redirecting package save to: C:\Users\Ahmad Usman\AppData\Local\Warframe\EE.cfg
+2.856 Sys [Info]: Skipping SavePackage for /Configs/EE.cfg (no changes detected)
+2.856 Sys [Info]: Saved package: /Configs/EE.cfg
+2.857 Sys [Info]: Used 1 shared assets (0 async, 1 sync)
+2.858 Phys [Info]: PhysX SDK shutdown.
+2.858 Phys [Info]: PhysX scene manager shutdown.
+Sys [Info]: All smart pointers were destroyed!
+2.865 Sys [Info]: Main Shutdown Complete.
