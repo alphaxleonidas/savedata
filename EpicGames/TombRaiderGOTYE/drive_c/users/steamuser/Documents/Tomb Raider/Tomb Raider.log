@@ -1,0 +1,617 @@
+19:58:19:235 (00000348) > [Startup] Tomb Raider
+19:58:19:235 (00000348) > [Startup] ==============
+19:58:19:235 (00000348) > [Startup] 
+19:58:19:235 (00000348) > [Startup] Build: v1.1 build 838.0_32
+19:58:19:235 (00000348) > [Startup] Windows 10 Pro (build 22000) (version 2009)
+19:58:19:235 (00000348) > [Startup] Game directory: C:\users\steamuser\Documents\Tomb Raider\
+19:58:19:235 (00000348) > [Startup] 
+19:58:19:235 (00000348) > [Startup] Memory statistics:
+19:58:19:235 (00000348) > [Startup]   Total RAM = 30.9 GB (31687 MB)
+19:58:19:235 (00000348) > [Startup]   Avail RAM = 20.0 GB (20529 MB)
+19:58:19:235 (00000348) > [Startup]   Total virtual memory = 4.0 GB (4095 MB)
+19:58:19:235 (00000348) > [Startup]   Avail virtual memory = 3.9 GB (4032 MB)
+19:58:19:235 (00000348) > [Startup] 
+19:58:19:235 (00000348) > [Epic] Initializing Epic SDK.
+19:58:19:282 (00000348) > [Epic] Initialized. Setting Logging Callback ...
+19:58:19:282 (00000348) > [Epic] Logging Callback Set
+19:58:19:282 (00000348) > [Epic] Creating platform.
+19:58:19:283 (00000348) > [Epic] LogEOSOverlay: Overlay will not load, because the binary's path is not configured
+19:58:19:286 (00000348) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+19:58:19:286 (00000348) > [Epic] Platform created.
+19:58:19:286 (00000348) > [Info] Starting Tomb Raider v1.01.0.0
+19:58:19:287 (00000348) > [Info] [Main] Current directory: S:\EpicGames\TombRaiderGOTYE
+19:58:19:288 (00000348) > [Main] Epic Language: 'en-us' win-locale: en
+19:58:19:290 (00000348) > [File] Mounted TITLE.000
+19:58:19:291 (00000348) > [File] Mounted PATCH.000
+19:58:19:291 (00000348) > [File] Mounted PATCH2.000
+19:58:19:293 (00000348) > [File] Mounted PATCH3.000
+19:58:19:295 (00000348) > [File] Mounted PATCH3.000
+19:58:19:297 (00000348) > [File] Mounted PATCH3.000
+19:58:19:435 (00000348) > [D3D] [Render] PCDeviceManager constructor start
+19:58:19:493 (00000348) > [D3D] [Render] PCDeviceManager constructor end
+19:58:19:646 (00000348) > [D3D] [Render] PCDX11DeviceManager constructor start
+19:58:19:646 (00000348) > [D3D] D3D Adapter Information:
+19:58:19:646 (00000348) > [D3D] Adapter Description: NVIDIA GeForce RTX 4070 SUPER
+19:58:19:646 (00000348) > [D3D] VendorID: 10de
+19:58:19:646 (00000348) > [D3D] DeviceID: 2783
+19:58:19:646 (00000348) > [D3D] Revision: 0
+19:58:19:646 (00000348) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+19:58:19:646 (00000348) > [D3D] NVAPI loaded succesfully.
+19:58:19:646 (00000348) > [D3D] NvAPI_Stereo_IsEnabled() returned an error: -3
+19:58:19:750 (00000348) > [D3D] Reducing mouse lag by setting frame latency to 1...
+19:58:19:750 (00000348) > [D3D] D3D reports feature level 11 is supported.
+19:58:19:750 (00000348) > [D3D] NVAPI Depth Bounds Test supported.
+19:58:19:783 (00000348) > [D3D] [Render] PCDX11DeviceManager constructor end
+19:58:23:119 (00000348) > [MultiCore] CPU count: logical = 12, cores = 6, physical = 1
+19:58:23:144 (00000348) > [D3D] ValidateDisplayMode: invalid refresh rate (165) encountered; falling back to 60.
+19:58:23:144 (00000348) > [D3D] D3D Adapter Information:
+19:58:23:144 (00000348) > [D3D] Adapter Description: NVIDIA GeForce RTX 4070 SUPER
+19:58:23:144 (00000348) > [D3D] VendorID: 10de
+19:58:23:144 (00000348) > [D3D] DeviceID: 2783
+19:58:23:144 (00000348) > [D3D] Revision: 0
+19:58:23:144 (00000348) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+19:58:23:144 (00000348) > [D3D] NVAPI loaded succesfully.
+19:58:23:144 (00000348) > [D3D] NvAPI_Stereo_IsEnabled() returned an error: -3
+19:58:23:273 (00000348) > [D3D] Reducing mouse lag by setting frame latency to 1...
+19:58:23:273 (00000348) > [D3D] D3D reports feature level 11 is supported.
+19:58:23:273 (00000348) > [D3D] NVAPI Depth Bounds Test supported.
+19:58:23:289 (00000564) > [D3D] CreateSwapChain() = 0
+19:58:23:289 (00000564) > [D3D] MakeWindowAssociation() = 0
+19:58:23:290 (00000564) > [D3D] SetFullscreenState() = 0
+19:58:23:343 (00000348) > [D3D] [Render] Using DirectX 11
+19:58:23:344 (00000348) > [File] Mounted PATCH3.000
+19:58:23:452 (00000348) > [SND] Initalizing audio...
+19:58:23:627 (00000348) > [SND] Audio device found. FMOD reports 4 driver(s).
+19:58:23:627 (00000348) > [SND] Audio Driver Name: Speakers (PulseAudio Output)
+19:58:23:627 (00000348) > [SND] Speaker Mode: 2
+19:58:27:341 (00000348) > [Epic] LogEOS: Large tick time detected 8.0549
+19:58:27:341 (00000348) > [Epic] LogEOS: Updating Platform SDK Config, Time: 8.054872
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208794)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208795)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208796)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208797)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208798)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208799)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 1 - 0x00000000 (steam id=208800)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 3 - 0x00000001 (steam id=208809)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 3 - 0x00000002 (steam id=208817)
+19:58:27:373 (00000348) > [Info] [DLC] mounted pack 3 - 0x00000004 (steam id=208818)
+19:58:27:477 (00000348) > [Info] [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+19:58:27:477 (00000348) > [Info] [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+19:58:27:478 (00000348) > [Info] [DLC] mounted DLC\PACK5.000 (steam id=208811, pack id=5)
+19:58:27:478 (00000348) > [Info] [DLC] mounted DLC\PACK6.000 (steam id=208814, pack id=6)
+19:58:27:478 (00000348) > [Info] [DLC] mounted DLC\PACK7.000 (steam id=208813, pack id=7)
+19:58:27:720 (00000348) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+19:58:27:720 (00000348) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+19:58:27:720 (00000348) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+19:58:27:720 (00000348) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+19:58:28:484 (00000348) > [Epic] LogEOS: SDK Config Platform Update Request Successful, Time: 9.191585
+19:58:28:486 (00000348) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+19:58:28:486 (00000348) > [Epic] LogEOSAnalytics: Record Event: SDKOverlayComponent.Init <Redacted>
+19:58:28:486 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:28:486 (00000348) > [Epic] WARNING: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+19:58:28:487 (00000348) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+19:58:28:487 (00000348) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+19:58:28:487 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 9.198334
+19:58:28:908 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:28:916 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+19:58:28:922 (00000348) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+19:58:29:130 (00000348) > [Info] OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK]
+19:58:29:339 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:29:346 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Successful, Time: 10.052529
+19:58:29:348 (00000348) > [Epic] WARNING: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+19:58:29:348 (00000348) > [Epic] WARNING: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_UnexpectedError).
+19:58:29:348 (00000348) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+19:58:29:348 (00000348) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+19:58:29:348 (00000348) > [Epic] LogEOS: SDK Config Data - Watermark: -1974487726
+19:58:29:348 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10.052529, Update Interval: 310.717499
+19:58:29:860 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:29:867 (00000348) > [Epic] LogEOSAuth: UserAuth Success
+19:58:29:867 (00000348) > [Epic] LogEOSAuth: NewUserToken: User ClientId: xyz...Irj AccountId: f07...d57 Access[Expires: 2026.09.11-16.58.29 Remaining: 7200.65] Refresh[Expires: 2026-09-11T22:58:29.654Z Remaining: 28800.65] State: Valid
+19:58:29:873 (00000348) > [Epic] LogEOSAuth: GenerateUserAuth success
+19:58:30:013 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:30:305 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:30:311 (00000348) > [Epic] LogEOSAuth: login/queryuserinfo success
+19:58:30:311 (00000348) > [Epic] LogEOSAuth: Login Tasks Complete: 0
+19:58:31:067 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:31:073 (00000348) > [Epic] LogEOSMessaging: Attempting connection to Stomp. LocalUserId=[000...e00] Url=[<Redacted>]
+19:58:31:476 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:31:483 (00000348) > [Epic] LogEOSP2P: Applying updated RTC Configuration
+19:58:31:497 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:31:726 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+19:58:31:782 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:32:122 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:58:32:711 (00000348) > [Epic] LogEOSMessaging: Succesfully connected to Stomp. LocalUserId=[000...e00]
+19:58:33:141 (00000348) > [Epic] LogEOSMessaging: Stomp subscribed to topic /1d905add96d5490c82e0c2c913731926/account/00021cc8cafc408085456ce1ba376e00
+19:59:28:484 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:28:484 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:28:915 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:28:915 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:29:866 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+19:59:29:873 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:30:407 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+19:59:30:415 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+19:59:31:505 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:31:727 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+19:59:31:790 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:00:19:715 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:00:30:410 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:00:30:806 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:00:30:813 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:01:30:809 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:01:31:205 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:01:31:211 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:02:19:709 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:02:31:209 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:02:31:597 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:02:31:604 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:04:14:816 (00000348) > [Epic] LogEOS: Large tick time detected 68.1077
+20:04:14:816 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:04:14:822 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 355.519531
+20:04:15:206 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:04:15:212 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:04:15:275 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:04:15:282 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:04:15:282 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.972504, Update Interval: 337.605530
+20:04:19:713 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:04:33:451 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:04:33:452 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:04:33:456 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:05:15:215 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:05:15:284 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:05:15:632 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:05:15:639 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:06:15:635 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:06:16:059 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:06:16:065 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:06:20:201 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:10:08:465 (00000348) > [Epic] LogEOS: Large tick time detected 195.5631
+20:10:08:465 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:10:08:465 (00000348) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:10:08:465 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+20:10:08:854 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:10:08:861 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:10:08:868 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:10:10:486 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 711.168091
+20:10:10:868 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:10:10:875 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:10:10:875 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 711.549744, Update Interval: 353.636902
+20:10:12:014 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:11:08:870 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:11:09:280 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:11:09:287 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:11:10:872 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:12:08:861 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:12:09:285 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:12:09:668 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:12:09:673 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:12:20:200 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:12:20:201 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:12:20:201 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:12:22:248 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:12:22:249 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:12:22:252 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:13:09:673 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:13:10:534 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:10:541 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:14:04:515 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:14:04:515 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:14:04:515 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:14:06:723 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:14:06:724 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:14:06:727 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:14:08:895 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:10:541 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:14:10:922 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:10:930 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:14:31:116 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:14:31:116 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:14:31:116 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:14:33:325 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:14:33:326 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:14:33:329 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:15:10:933 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:15:11:349 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:15:11:355 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:16:08:900 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:16:09:046 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 1069.705322
+20:16:09:441 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:16:09:448 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:16:09:448 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1070.099731, Update Interval: 332.868439
+20:16:11:352 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:16:11:740 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:16:11:747 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:17:09:444 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:17:11:749 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:17:12:153 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:17:12:159 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:18:08:918 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:18:12:163 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:18:12:586 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:18:12:592 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:19:12:590 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:19:13:001 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:19:13:007 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:19:58:430 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:19:58:430 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:19:58:430 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:20:00:469 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:20:00:471 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:20:00:474 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:20:08:496 (00000348) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:20:08:496 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+20:20:08:892 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:20:09:176 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:20:13:009 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:20:13:419 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:20:13:426 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:20:36:676 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:20:36:676 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:20:36:676 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:20:38:717 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:20:38:719 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:20:38:722 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:21:13:423 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:21:13:846 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:21:13:853 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:21:47:014 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:21:47:015 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:21:47:015 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:21:49:054 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:21:49:055 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:21:49:059 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:21:57:475 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 1418.125732
+20:21:57:870 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:21:57:877 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:21:57:877 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1418.520752, Update Interval: 301.604065
+20:22:08:550 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:22:08:550 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:22:08:550 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:22:08:926 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:22:10:591 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:22:10:593 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:22:10:596 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:22:13:850 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:22:14:301 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:22:14:308 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:22:41:836 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:22:41:836 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:22:41:836 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:22:43:877 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:22:43:878 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:22:43:881 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:22:57:877 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:23:14:309 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:23:14:732 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:14:738 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:23:37:603 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:23:37:603 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:23:37:603 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:23:39:642 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:23:39:643 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:23:39:647 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:26:19:427 (00000348) > [Epic] LogEOS: Large tick time detected 153.0413
+20:26:19:427 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:26:19:832 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:26:19:838 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:26:19:845 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:27:15:933 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 1736.566040
+20:27:16:328 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:27:16:335 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:27:16:335 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1736.961792, Update Interval: 334.998016
+20:27:19:842 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:27:20:246 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:27:20:252 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:27:51:430 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:27:51:431 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:27:51:431 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:27:53:468 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:27:53:469 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:27:53:473 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:28:16:335 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:28:19:835 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:28:20:254 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:28:20:642 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:28:20:649 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:28:21:524 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:28:21:524 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:28:21:525 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:28:23:563 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:28:23:564 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:28:23:567 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:28:57:741 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:28:57:741 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:28:57:742 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:28:59:780 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:28:59:781 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:28:59:784 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:29:20:648 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:29:21:051 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:29:21:058 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:29:28:724 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:29:28:724 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:29:28:724 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:29:30:765 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:29:30:766 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:29:30:770 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:30:08:524 (00000348) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:30:08:524 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+20:30:08:935 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:30:19:865 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:30:21:060 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:30:21:484 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:30:21:490 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:31:17:769 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:31:17:770 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:31:17:770 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:31:19:808 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:31:19:809 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:31:19:813 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:31:21:490 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:31:21:900 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:31:21:907 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:32:19:874 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:32:21:909 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:32:22:297 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:32:22:304 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:33:22:305 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:33:22:720 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:33:22:727 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:33:37:293 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 2117.901367
+20:33:37:675 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:33:37:683 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:33:37:683 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2118.283691, Update Interval: 320.114746
+20:34:19:853 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:34:22:728 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:34:23:166 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:34:23:172 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:34:37:680 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:34:55:747 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:34:55:747 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:34:55:748 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:34:57:783 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:34:57:784 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:34:57:788 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:35:23:174 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:35:23:592 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:35:23:598 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:36:15:572 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+20:36:15:572 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+20:36:15:572 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+20:36:17:611 (00000348) > [Info] Player object AddRef laracroft: 1 => 2
+20:36:17:612 (00000348) > [Info] Player object AddRef laracroft: 2 => 3
+20:36:17:615 (00000348) > [Info] Player object AddRef laracroft: 3 => 4
+20:36:19:848 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:36:23:601 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:36:24:017 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:36:24:023 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:37:24:025 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:37:24:435 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:37:24:442 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:38:19:887 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:38:24:442 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:38:24:831 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:38:24:838 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:39:24:836 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:39:25:238 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:39:25:245 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:39:47:942 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 2488.526367
+20:39:48:336 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:39:48:342 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:39:48:342 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2488.920898, Update Interval: 333.540466
+20:40:08:558 (00000348) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:40:08:558 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+20:40:08:996 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:40:19:895 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:40:25:242 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:40:26:139 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:40:26:145 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:40:48:345 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:41:26:144 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:41:26:550 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:41:26:556 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:42:19:911 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:42:26:558 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:42:26:954 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:42:26:961 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:43:26:960 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:43:27:367 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:43:27:375 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:44:19:942 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:44:27:378 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:44:27:787 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:44:27:794 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:45:27:790 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:45:28:207 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:45:28:214 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:46:16:955 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 2877.518066
+20:46:17:372 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:46:17:378 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:46:17:378 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2877.934814, Update Interval: 310.699188
+20:46:19:920 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:46:28:210 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:46:28:599 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:46:28:606 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:47:17:376 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:47:28:608 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:47:29:011 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:47:29:018 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:48:19:924 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:48:29:015 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:48:29:396 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:48:29:403 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:49:29:406 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:49:29:801 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:49:29:808 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:49:44:504 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:49:44:532 (00000348) > [Epic] LogEOSAchievements: Achievement Unlocked - To: 000...e00
+20:49:44:532 (00000348) > [Epic] Achievement NEW_ACHIEVEMENT_2_31 unlocked at 1789141784
+20:50:08:588 (00000348) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:50:08:588 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+20:50:09:012 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:50:19:937 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:50:29:805 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:50:30:201 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:50:30:208 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:50:44:509 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:51:30:206 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:51:31:116 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:51:31:123 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:52:17:700 (00000348) > [Epic] LogEOS: Large tick time detected 13.6214
+20:52:17:700 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 3238.239990
+20:52:18:116 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:52:18:120 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:52:18:120 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3238.656982, Update Interval: 346.957001
+20:52:19:922 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:52:31:119 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:52:31:651 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:52:31:654 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:53:18:125 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:53:31:655 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:53:32:056 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:53:32:063 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:54:19:953 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:32:065 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:54:32:495 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:32:502 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:55:32:498 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:55:32:887 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:32:894 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:56:20:209 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:32:076 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:32:084 (00000348) > [Epic] LogEOSP2P: Applying updated RTC Configuration
+20:56:32:896 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:56:33:306 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:33:313 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:56:58:481 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:488 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:779 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:780 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:786 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:786 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:807 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:814 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:814 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:821 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:821 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:828 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:835 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:842 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:849 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:855 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:856 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:856 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:863 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:863 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:872 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:877 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:884 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:884 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:890 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:890 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:898 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:905 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:905 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:912 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:925 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:932 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:58:954 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:58:960 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:147 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:154 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:169 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:175 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:183 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:189 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:189 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:196 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:204 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:210 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:225 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:231 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:238 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:238 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:245 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:245 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:252 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:252 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:259 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:259 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:259 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:267 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:267 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:273 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:56:59:279 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:56:59:287 (00000348) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:57:30:691 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:57:31:114 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:57:33:309 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:57:33:719 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:57:33:726 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:57:58:484 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:57:58:484 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:58:19:950 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:58:31:124 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:58:33:729 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:58:34:124 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:58:34:131 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:58:51:639 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 3632.189453
+20:58:52:048 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:58:52:055 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:58:52:055 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3632.599609, Update Interval: 342.025818
+20:59:34:127 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:59:34:530 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:59:34:537 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+20:59:52:051 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+21:00:08:622 (00000348) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+21:00:08:622 (00000348) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[f07...d57] RichText=[]
+21:00:09:052 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:00:19:977 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:00:34:540 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+21:00:34:949 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:00:34:956 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+21:01:34:953 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+21:01:35:362 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:01:35:368 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+21:01:46:290 (00000348) > [Info] Player object RemRef laracroft: 4 => 3
+21:01:46:293 (00000348) > [Info] Player object RemRef laracroft: 3 => 2
+21:01:46:294 (00000348) > [Info] Player object RemRef laracroft: 2 => 1
+21:02:19:977 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:02:35:366 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+21:02:35:776 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:02:35:782 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+21:03:35:785 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+21:03:36:189 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:03:36:195 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+21:04:19:989 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:04:36:197 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+21:04:36:627 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:04:36:636 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+21:09:34:066 (00000348) > [Epic] LogEOS: Large tick time detected 293.4630
+21:09:34:066 (00000348) > [Epic] LogEOS: Updating Product SDK Config, Time: 4274.606934
+21:09:34:066 (00000348) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+21:09:34:468 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:09:34:475 (00000348) > [Epic] LogEOSAuth: Verify Auth Success
+21:09:34:801 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:09:34:810 (00000348) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+21:09:34:810 (00000348) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4275.342285, Update Interval: 352.563843
+21:09:34:850 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:09:35:954 (00000348) > [Epic] LogEOSPresence: Setting presence to offline. LocalUserId=[f07...d57]
+21:09:36:364 (00000348) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+21:09:36:364 (00000348) > [Epic] LogEOSPresence: Setting presence to offline complete, LocalUserId=[f07...d57], Result=EOS_Success
+21:09:36:365 (00000348) > [Epic] LogEOSAuth: Sending Kill Auth request. url=<Redacted>
+21:09:36:365 (00000348) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+21:09:37:039 (00000348) > [Info] Exiting the game.
